@@ -1,5 +1,5 @@
 Rails.application.configure do
-  # This line is changed
+  # This line is changed again with fixup!
 
   # In the development environment your application's code is reloaded on
   # every request. This slows down response time but is perfect for development
