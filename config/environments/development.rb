@@ -9,7 +9,7 @@ Rails.application.configure do
   # Do not eager load code on boot.
   config.eager_load = false
 
-  # Now this line is changed
+  # Now this line is changed again as well
   # This line is changed again
 
   # Enable/disable caching. By default caching is disabled.
