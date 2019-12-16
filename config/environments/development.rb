@@ -10,7 +10,7 @@ Rails.application.configure do
   config.eager_load = false
 
   # Now this line is changed
-  # This line is changed
+  # This line is changed again
 
   # Enable/disable caching. By default caching is disabled.
   # Run rails dev:cache to toggle caching.
